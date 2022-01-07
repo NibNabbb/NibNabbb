@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NibNabbb
 - 👀 I’m interested in whatever
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on small prokects
+- 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me nowhere
 
 <!---
